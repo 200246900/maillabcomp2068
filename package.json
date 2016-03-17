@@ -7,10 +7,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/200246900/maillabcomp2068.git"
+    "url": "https://github.com/200246900/maillabcomp2068"
   },
-  "author": "Tyler Cadeay",
-  "description": "A Mail Demo Project for COMP2068 @ Georgian College",
+  "author": "Tyler Cadeau",
+  "description": "A MongoDB Demo Project for COMP2068 @ Georgian College",
   "license": "MIT",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
